@@ -15,7 +15,6 @@
 </div>
 
 # Curriculum
-- [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
 - [Advanced CS](#advanced-cs)
