@@ -15,7 +15,7 @@
 </div>
 
 > [!NOTE]
-> **Important Note:** **I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.**
+> ** Note:** **I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.**
 
 
 
