@@ -14,7 +14,9 @@
 </p>
 </div>
 
-## Note: I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.
+> **Note:** I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.
+
+# Curriculum
 
 # Curriculum
 - [Intro CS](#intro-cs)
