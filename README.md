@@ -36,7 +36,7 @@
 
 | Courses | Done |
 | :--- | :---: |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅ |
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) |
 
 ---
 
