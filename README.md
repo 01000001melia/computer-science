@@ -28,12 +28,6 @@
 
 ## Intro CS
 
-**Topics covered**:
-- `computation`
-- `imperative programming`
-- `basic data structures and algorithms`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) |
@@ -43,20 +37,6 @@
 ## Core CS
 
 ### Core programming
-
-**Topics covered**:
-- `functional programming`
-- `design for testing`
-- `program requirements`
-- `common design patterns`
-- `unit testing`
-- `object-oriented design`
-- `static typing`
-- `dynamic typing`
-- `ML-family languages (via Standard ML)`
-- `Lisp-family languages (via Racket)`
-- `Ruby`
-- `and more`
 
 | Courses | Done |
 | :--- | :---: |
@@ -68,14 +48,6 @@
 
 ### Core math
 
-**Topics covered**:
-- `discrete mathematics`
-- `mathematical proofs`
-- `basic statistics`
-- `O-notation`
-- `discrete probability`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | |
@@ -85,34 +57,11 @@
 
 ### CS Tools
 
-**Topics covered**:
-- `terminals and shell scripting`
-- `vim`
-- `command line environments`
-- `version control`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | |
 
 ### Core systems
-
-**Topics covered**:
-- `procedural programming`
-- `manual memory management`
-- `boolean algebra`
-- `gate logic`
-- `memory`
-- `computer architecture`
-- `assembly`
-- `machine language`
-- `virtual machines`
-- `high-level languages`
-- `compilers`
-- `operating systems`
-- `network protocols`
-- `and more`
 
 | Courses | Done |
 | :--- | :---: |
@@ -123,34 +72,12 @@
 
 ### Core theory
 
-**Topics covered**:
-- `divide and conquer`
-- `sorting and searching`
-- `randomized algorithms`
-- `graph search`
-- `shortest paths`
-- `data structures`
-- `greedy algorithms`
-- `minimum spanning trees`
-- `dynamic programming`
-- `NP-completeness`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) | |
 | [Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | |
 
 ### Core security
-
-**Topics covered**:
-- `Confidentiality, Integrity, Availability`
-- `Secure Design`
-- `Defensive Programming`
-- `Threats and Attacks`
-- `Network Security`
-- `Cryptography`
-- `and more`
 
 | Courses | Done |
 | :--- | :---: |
@@ -162,21 +89,6 @@
 
 ### Core applications
 
-**Topics covered**:
-- `Agile methodology`
-- `REST`
-- `software specifications`
-- `refactoring`
-- `relational databases`
-- `transaction processing`
-- `data modeling`
-- `neural networks`
-- `supervised learning`
-- `unsupervised learning`
-- `OpenGL`
-- `ray tracing`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | |
@@ -187,14 +99,6 @@
 | [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | |
 
 ### Core ethics
-
-**Topics covered**:
-- `Social Context`
-- `Analytical Tools`
-- `Professional Ethics`
-- `Intellectual Property`
-- `Privacy and Civil Liberties`
-- `and more`
 
 | Courses | Done |
 | :--- | :---: |
@@ -208,15 +112,6 @@
 
 ### Advanced programming
 
-**Topics covered**:
-- `debugging theory and practice`
-- `goal-oriented programming`
-- `parallel computing`
-- `object-oriented analysis and design`
-- `UML`
-- `large-scale software architecture and design`
-- `and more`
-
 | Courses | Done |
 | :--- | :---: |
 | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) | |
@@ -228,45 +123,11 @@
 
 ### Advanced systems
 
-**Topics covered**:
-- `digital signaling`
-- `combinational logic`
-- `CMOS technologies`
-- `sequential logic`
-- `finite state machines`
-- `processor instruction sets`
-- `caches`
-- `pipelining`
-- `virtualization`
-- `parallel processing`
-- `virtual memory`
-- `synchronization primitives`
-- `system call interface`
-- `and more`
-
-| Courses | Done |
-| :--- | :---: |
 | [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) | |
 | [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | |
 | [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | |
 
 ### Advanced theory
-
-**Topics covered**:
-- `formal languages`
-- `Turing machines`
-- `computability`
-- `event-driven concurrency`
-- `automata`
-- `distributed shared memory`
-- `consensus algorithms`
-- `state machine replication`
-- `computational geometry theory`
-- `propositional logic`
-- `relational logic`
-- `Herbrand logic`
-- `game trees`
-- `and more`
 
 | Courses | Done |
 | :--- | :---: |
