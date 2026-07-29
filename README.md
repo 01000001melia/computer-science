@@ -41,9 +41,9 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 ### Core programming
 
-| Courses | Done | ماذا تعلمت |
+| Courses | Done | What I Learned |
 |---|---|---|
-| Systematic Program Design | 2026 / June-Augest ⏳ | [التفاصيل](./notes/systematic-program-design.md) |
+| Systematic Program Design | 2026 / June-Augest ⏳ |
 | Class-based Program Design | | 
 | Programming Languages | | 
 | Object-Oriented Design | | 
