@@ -41,13 +41,15 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 ### Core programming
 
-| Courses | Done |
-| :--- | :---: |
-| [Systematic Program Design](coursepages/spd/README.md) | 2026 / June-Augest⏳|
-| [Class-based Program Design](coursepages/class-based/README.md) | |
-| [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | |
-| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) | |
+| Courses | Done | ماذا تعلمت |
+|---|---|---|
+| Systematic Program Design | 2026 / June-Augest ⏳ | [التفاصيل](./notes/systematic-program-design.md) |
+| Class-based Program Design | | 
+| Programming Languages | | 
+| Object-Oriented Design | | 
+| Software Architecture | |  
+
+
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
