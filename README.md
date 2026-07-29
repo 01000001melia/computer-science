@@ -56,6 +56,7 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 | :--- | :---: |
 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | |
 
+
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
 
@@ -63,8 +64,8 @@ Understanding theory is important, but you will also be expected to create progr
 | :--- | :---: |
 | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | |
 
-### Core systems
 
+### Core systems
 
 | Courses | Done |
 | :--- | :---: |
@@ -97,8 +98,6 @@ Understanding theory is important, but you will also be expected to create progr
 | [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | |
 | [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | |
 | [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | |
-| [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/) | |
-| [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics) | |
 | [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | |
 
 ### Core ethics
@@ -120,10 +119,9 @@ After completing every required course in Core CS, students should choose a subs
 | :--- | :---: |
 | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) | |
 | [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | |
-| [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | |
-| [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) | |
 | [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | |
 | [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | |
+
 
 ### Advanced systems
 
@@ -132,36 +130,14 @@ Courses | Done
 [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 
 [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 
 [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) |
-
-
-### Advanced theory
-
-| Courses | Done |
-| :--- | :---: |
-| [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) | |
-| [Computational Geometry](https://www.edx.org/learn/geometry/tsinghua-university-ji-suan-ji-he-computational-geometry) | |
-| [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html) | |
+|
 
 ### Advanced Information Security
 
 | Courses | Done |
 | :--- | :---: |
 | [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | |
-| [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | |
-| [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | |
-| [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | |
-| [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | |
-| [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | |
 
-### Advanced math
-
-| Courses | Done |
-| :--- | :---: |
-| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
-| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | |
-| [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) | |
-| [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | |
-| [Probability](https://stat110.hsites.harvard.edu/) | |
 
 ---
 
@@ -170,11 +146,4 @@ Courses | Done
 | Courses | Done |
 | :--- | :---: |
 | [Fullstack Open](https://fullstackopen.com/en/) | |
-| [Modern Robotics](https://modernrobotics.northwestern.edu) | |
-| [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | |
-| [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | |
-| [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | |
 | [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
-| [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | |
-| [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | |
-| [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | |
