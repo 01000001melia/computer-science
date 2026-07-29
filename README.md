@@ -1,40 +1,24 @@
-<div align="center" style="text-align: center">
-<img src="images/ossu-logo.webp" alt="Open Source Society logo"/>
-<h3>Open Source Society University</h3>
-<p>
-  Path to a free self-taught education in Computer Science!
-</p>
-<p>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
-  ></a>
-  <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
-  ></a>
-</p>
-</div>
+Open Source Society logo
+Open Source Society University
+Path to a free self-taught education in Computer Science!
 
-> [!NOTE]
-> ** Note:** **I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.**
+Awesome Open Source Society University - Computer Science
 
+Note
 
+** Note:** I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.
 
-# Curriculum
-- [Intro CS](#intro-cs)
-- [Advanced CS](#advanced-cs)
-- [Final project](#final-project)
-
----
+Curriculum
+Intro CS
+Advanced CS
+Final project
 
 ## Intro CS
-
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
-| Courses | Done |
-| :--- | :---: |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) — studied independently, not via OSSU |
-
----
+| Courses | Done | What I Learned |
+|---|---|---|
+| Introduction to Computer Science and Programming using Python | ✅done-2023 (edx & teracourses) — studied independently, not via OSSU | |
 
 ## Core CS
 All coursework under Core CS is required, unless otherwise indicated.
@@ -43,108 +27,98 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | Done | What I Learned |
 |---|---|---|
-| Systematic Program Design | 2026 / June-Augest ⏳ |
-| Class-based Program Design | | 
-| Programming Languages | | 
-| Object-Oriented Design | | 
-| Software Architecture | |  
-
-
+| Systematic Program Design | 2026 / June-Augest ⏳ | [Details](./notes/systematic-program-design.md) |
+| Class-based Program Design | | [Details](./notes/class-based-program-design.md) |
+| Programming Languages | | [Details](./notes/programming-languages.md) |
+| Object-Oriented Design | | [Details](./notes/object-oriented-design.md) |
+| Software Architecture | | [Details](./notes/software-architecture.md) |
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
-| Courses | Done |
-| :--- | :---: |
-| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | |
-
+| Courses | Done | What I Learned |
+|---|---|---|
+| Mathematics for Computer Science | | [Details](./notes/mathematics-for-computer-science.md) |
 
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
 
-| Courses | Done |
-| :--- | :---: |
-| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | |
-
+| Courses | Done | What I Learned |
+|---|---|---|
+| The Missing Semester of Your CS Education | | [Details](./notes/missing-semester.md) |
 
 ### Core systems
 
-| Courses | Done |
-| :--- | :---: |
-| [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | |
-| [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | |
-| [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | |
-| [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Build a Modern Computer from First Principles: From Nand to Tetris | | [Details](./notes/nand2tetris-part1.md) |
+| Build a Modern Computer from First Principles: Nand to Tetris Part II | | [Details](./notes/nand2tetris-part2.md) |
+| Operating Systems: Three Easy Pieces | | [Details](./notes/operating-systems.md) |
+| Computer Networking: a Top-Down Approach | | [Details](./notes/computer-networking.md) |
 
 ### Core theory
 
-| Courses | Done |
-| :--- | :---: |
-| [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) | |
-| [Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Algorithms: Design and Analysis, Part 1 | | [Details](./notes/algorithms-part1.md) |
+| Algorithms: Design and Analysis, Part 2 | | [Details](./notes/algorithms-part2.md) |
 
 ### Core security
 
-| Courses | Done |
-| :--- | :---: |
-| [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | |
-| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | |
-| [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | |
-| [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | |
-| [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Cybersecurity Fundamentals | | [Details](./notes/cybersecurity-fundamentals.md) |
+| Principles of Secure Coding | | [Details](./notes/secure-coding.md) |
+| Identifying Security Vulnerabilities | | [Details](./notes/security-vulnerabilities.md) |
+| Identifying Security Vulnerabilities in C/C++ Programming | | [Details](./notes/vulnerabilities-c-cpp.md) |
+| Exploiting and Securing Vulnerabilities in Java Applications | | [Details](./notes/vulnerabilities-java.md) |
 
 ### Core applications
 
-| Courses | Done |
-| :--- | :---: |
-| [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | |
-| [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | |
-| [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | |
-| [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Databases: Modeling and Theory | | [Details](./notes/databases-modeling-theory.md) |
+| Databases: Relational Databases and SQL | | [Details](./notes/databases-sql.md) |
+| Databases: Semistructured Data | | [Details](./notes/databases-semistructured.md) |
+| Software Engineering: Introduction | | [Details](./notes/software-engineering-intro.md) |
 
 ### Core ethics
 
-| Courses | Done |
-| :--- | :---: |
-| [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | |
-| [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | |
-| [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | |
-
----
+| Courses | Done | What I Learned |
+|---|---|---|
+| Ethics, Technology and Engineering | | [Details](./notes/ethics-technology.md) |
+| Introduction to Intellectual Property | | [Details](./notes/intellectual-property.md) |
+| Data Privacy Fundamentals | | [Details](./notes/data-privacy.md) |
 
 ## Advanced CS
 After completing every required course in Core CS, students should choose a subset of courses from Advanced CS based on interest. Not every course from a subcategory needs to be taken. But students should take every course that is relevant to the field they intend to go into.
 
 ### Advanced programming
 
-| Courses | Done |
-| :--- | :---: |
-| [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) | |
-| [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers) | |
-| [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | |
-| [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | |
-
+| Courses | Done | What I Learned |
+|---|---|---|
+| Parallel Programming | | [Details](./notes/parallel-programming.md) |
+| Compilers | | [Details](./notes/compilers.md) |
+| Software Debugging | | [Details](./notes/software-debugging.md) |
+| Software Testing | | [Details](./notes/software-testing.md) |
 
 ### Advanced systems
 
-Courses | Done
-:-- | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 
-[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 
-[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Computation Structures 1: Digital Circuits | | [Details](./notes/computation-structures-1.md) |
+| Computation Structures 2: Computer Architecture | | [Details](./notes/computation-structures-2.md) |
+| Computation Structures 3: Computer Organization | | [Details](./notes/computation-structures-3.md) |
 
 ### Advanced Information Security
 
-| Courses | Done |
-| :--- | :---: |
-| [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | |
-
-
----
+| Courses | Done | What I Learned |
+|---|---|---|
+| Web Security Fundamentals | | [Details](./notes/web-security.md) |
 
 ## Final project
 
-| Courses | Done |
-| :--- | :---: |
-| [Fullstack Open](https://fullstackopen.com/en/) | |
-| [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
+| Courses | Done | What I Learned |
+|---|---|---|
+| Fullstack Open | | [Details](./notes/fullstack-open.md) |
+| Cloud Computing (Specialization) | | [Details](./notes/cloud-computing.md) |
