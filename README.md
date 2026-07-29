@@ -39,7 +39,7 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | Done | What I Learned |
 |---|---|---|
-| Systematic Program Design | 2026 / June-Augest ⏳ |
+| [Systematic Program Design](coursepages/spd/README.md) | 2026 / June-Augest ⏳ |
 | Class-based Program Design |  |
 | Programming Languages |  |
 | Object-Oriented Design|  |
