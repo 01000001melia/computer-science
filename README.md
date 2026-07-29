@@ -32,7 +32,7 @@ This course will introduce you to the world of computer science and programming.
 
 | Courses | Done |
 | :--- | :---: |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) |
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) — studied independently, not via OSSU |
 
 ---
 
