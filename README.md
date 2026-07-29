@@ -43,7 +43,7 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | Done |
 | :--- | :---: |
-| [Systematic Program Design](coursepages/spd/README.md) |⏳2026 - augest |
+| [Systematic Program Design](coursepages/spd/README.md) |⏳|
 | [Class-based Program Design](coursepages/class-based/README.md) | |
 | [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | |
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | |
