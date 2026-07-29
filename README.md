@@ -30,7 +30,7 @@ This course will introduce you to the world of computer science and programming.
 
 | Courses | Done | What I Learned |
 |---|---|---|
-| Introduction to Computer Science and Programming using Python | ✅done-2023 (edx & teracourses) — studied independently, not via OSSU | |
+|[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅done-2023 (edx & teracourses) — studied independently, not via OSSU | |
 
 ## Core CS
 All coursework under Core CS is required, unless otherwise indicated.
