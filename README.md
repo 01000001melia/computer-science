@@ -27,6 +27,7 @@
 ---
 
 ## Intro CS
+This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
 | Courses | Done |
 | :--- | :---: |
@@ -35,6 +36,7 @@
 ---
 
 ## Core CS
+All coursework under Core CS is required, unless otherwise indicated.
 
 ### Core programming
 
@@ -47,6 +49,7 @@
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | |
 
 ### Core math
+Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
 
 | Courses | Done |
 | :--- | :---: |
@@ -56,6 +59,7 @@
 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | |
 
 ### CS Tools
+Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
 
 | Courses | Done |
 | :--- | :---: |
@@ -110,6 +114,7 @@
 ---
 
 ## Advanced CS
+After completing every required course in Core CS, students should choose a subset of courses from Advanced CS based on interest. Not every course from a subcategory needs to be taken. But students should take every course that is relevant to the field they intend to go into.
 
 ### Advanced programming
 
