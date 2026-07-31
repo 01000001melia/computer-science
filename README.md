@@ -29,7 +29,7 @@ This course will introduce you to the world of computer science and programming.
 
 | Course | OSSU / MIT |  CS50's Introduction to Computer Science | What I Learned |
 | :--- | :--- | :---: | :--- |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) |✅Studied some essential topics only | ✅ *done-2023 (edx & teracourses) — studied independently, not via OSSU* | |
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) |✅Studied some essential topics only | ✅ *done-2024 (edx & teracourses) — studied independently, not via OSSU* | |
 
 
 ## Core CS
