@@ -29,7 +29,9 @@ This course will introduce you to the world of computer science and programming.
 
 | Course | OSSU / MIT | CS50 | What I Learned |
 | :--- | :--- | :--- | :--- |
-| | | | |
+
+
+|      |      |      |      |
 
 ## Core CS
 All coursework under Core CS is required, unless otherwise indicated.
