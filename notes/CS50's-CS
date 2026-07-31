@@ -1,1 +1,29 @@
+#  CS50x 2024 - Introduction to Computer Science
 
+Completed Harvard's CS50x 2024 course, covering 10 weeks of introductory computer science topics
+
+---
+Course Structure & Covered Topics
+
+
+Week 0: Scratch - Visual programming concepts and basic logic flow.
+
+Week 1: C - Syntax, data types, conditionals, and loops.
+
+Week 2: Arrays - Command-line arguments, strings, and basic cryptography concepts.
+
+Week 3: Algorithms - Linear search, binary search, and basic sorting algorithms (Bubble, Selection, Merge).
+
+Week 4: Memory - Pointers, memory allocation, and pointers manipulation.
+
+Week 5: Data Structures - Linked lists, queues, stacks, trees, and hash tables.
+
+Week 6: Python - Rewriting C programs in Python to compare syntax and abstraction.
+
+Week 7: SQL - Relational databases, SQL queries, indexing, and data filtering.
+
+Week 8: HTML, CSS, JavaScript - Basics of web development and frontend interaction.
+
+Week 9: Flask - Building basic web apps using Python and HTML forms.
+
+Week 10: Cybersecurity - Overview of basic security concepts, threats, and privacy.
