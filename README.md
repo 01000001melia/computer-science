@@ -171,3 +171,10 @@ After completing every required course in Core CS, students should choose a subs
 | [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | |
 | [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | |
 | [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | |
+
+# Team
+
+* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
+* **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
+* **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
+* **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
