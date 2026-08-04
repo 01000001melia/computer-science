@@ -50,6 +50,9 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 | Courses | Done |
 |---|---|
+| Calculus 1A: Differentiation | |
+| Calculus 1B: Integration | |
+| Calculus 1C: Coordinate Systems & Infinite Series | |
 | Mathematics for Computer Science | |
 
 ### CS Tools
@@ -92,6 +95,8 @@ Understanding theory is important, but you will also be expected to create progr
 | Databases: Modeling and Theory | |
 | Databases: Relational Databases and SQL | |
 | Databases: Semistructured Data | |
+| Machine Learning | |
+| Computer Graphics | |
 | Software Engineering: Introduction | |
 
 ### Core ethics
@@ -111,6 +116,8 @@ After completing every required course in Core CS, students should choose a subs
 |---|---|
 | Parallel Programming | |
 | Compilers | |
+| Introduction to Haskell | |
+| Learn Prolog Now! | |
 | Software Debugging | |
 | Software Testing | |
 
@@ -122,15 +129,45 @@ After completing every required course in Core CS, students should choose a subs
 | Computation Structures 2: Computer Architecture | |
 | Computation Structures 3: Computer Organization | |
 
+### Advanced theory
+
+| Courses | Done |
+|---|---|
+| Theory of Computation | |
+| Computational Geometry | |
+| Algorithmic Game Theory | |
+
 ### Advanced Information Security
 
 | Courses | Done |
 |---|---|
 | Web Security Fundamentals | |
+| Security Governance & Compliance | |
+| Digital Forensics Concepts | |
+| Secure Software Development: Requirements, Design, and Reuse | |
+| Secure Software Development: Implementation | |
+| Secure Software Development: Verification and More Specialized Topics | |
+
+### Advanced math
+
+| Courses | Done |
+|---|---|
+| Essence of Linear Algebra | |
+| Linear Algebra | |
+| Introduction to Numerical Methods | |
+| Introduction to Formal Logic | |
+| Probability | |
 
 ## Final project
 
 | Courses | Done |
 |---|---|
 | Fullstack Open | |
+| Modern Robotics | |
+| Data Mining (Specialization) | |
+| Big Data (Specialization) | |
+| Internet of Things (Specialization) | |
 | Cloud Computing (Specialization) | |
+| Data Science (Specialization) | |
+| Functional Programming in Scala (Specialization) | |
+| Game Design and Development with Unity 2020 (Specialization) | |
