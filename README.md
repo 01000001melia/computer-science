@@ -28,9 +28,10 @@
 ## Intro CS
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 
-| Course | OSSU / MIT | CS50's Introduction to Computer Science |
-| :--- | :--- | :---: |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) |✅ | ✅ *done-2024 (edx & teracourses) — studied independently, not via OSSU* |
+| Courses | Done |
+|---|---|
+| [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/mitx-introduction-to-computer-science-and-programming-using-python) | ✅ *Done (MIT)* |
+| [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvardx-cs50-s-introduction-to-computer-science) | ✅ *Done-2024 (Harvard)* |
 
 
 ## Core CS
@@ -133,6 +134,18 @@ After completing every required course in Core CS, students should choose a subs
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
 
 
+## Final project
+
+Part of learning is doing.
+The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
+
+### Final project
+
+| Courses | Done |
+|---|---|
+| [Fullstack Open](https://fullstackopen.com/en/) | |
+| [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | |
+| [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
 
 
 Team
