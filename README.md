@@ -30,8 +30,8 @@ This course will introduce you to the world of computer science and programming.
 
 | Courses | Done |
 |---|---|
-| [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/mitx-introduction-to-computer-science-and-programming-using-python) | ✅ *Done (MIT)* |
-| [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvardx-cs50-s-introduction-to-computer-science) | ✅ *Done-2024 (Harvard)* |
+| [Introduction to Computer Science and Programming using Python](https://www.edx.org/learn/computer-science/mitx-introduction-to-computer-science-and-programming-using-python) | ✅ *Completed (MITx)* |
+| [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvardx-cs50-s-introduction-to-computer-science) | ✅ *Completed - 2024 (HarvardX - Independent Study)* |
 
 
 ## Core CS
