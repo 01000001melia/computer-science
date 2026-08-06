@@ -30,7 +30,8 @@ This course will introduce you to the world of computer science and programming.
 
 | Course | ⏳ | Additional Study | 🎯 |
 | :--- | :---: | :---: | :--- |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅  | ✅ *CS50 - Completed 2024 (HarvardX - Independent Study)* |[CS50](notes/CS50's-CS)|
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅  | ✅ *CS50 - Completed 2024 (HarvardX - Independent Study)* |[CS50](notes/CS50's-CS)
+[SPD](Systematic Program Design)|
 
 ## Core CS
 All coursework under Core CS is required, unless otherwise indicated.
