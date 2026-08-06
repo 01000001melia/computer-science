@@ -135,5 +135,14 @@ After completing every required course in Core CS, students should choose a subs
 
 
 
+Team
+Eric Douglas: founder of OSSU
+Josh Hanson: lead technical maintainer
+Waciuma Wanjohi: lead academic maintainer
+Contributors
+
+
+
+
 
  
