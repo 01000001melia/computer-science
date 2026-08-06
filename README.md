@@ -30,7 +30,7 @@ This course will introduce you to the world of computer science and programming.
 
 | Course | OSSU / MIT | CS50's Introduction to Computer Science |
 | :--- | :--- | :---: |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) |✅Studied some essential topics only | ✅ *done-2024 (edx & teracourses) — studied independently, not via OSSU* |
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) |✅ | ✅ *done-2024 (edx & teracourses) — studied independently, not via OSSU* |
 
 
 ## Core CS
@@ -40,9 +40,8 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | Done |
 |---|---|
-| [Systematic Program Design](coursepages/spd/README.md) | 2026 / June-Augest ⏳ |
+| [Systematic Program Design](coursepages/spd/README.md) | 2026 ⏳ |
 | [Class-based Program Design](coursepages/class-based/README.md) | |
-| [Programming Languages](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) | |
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | |
 
