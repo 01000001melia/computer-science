@@ -15,7 +15,7 @@
 </p>
 </div>
 
-**Note:** I am not taking all courses in this curriculum. Instead, I selectively complete the modules and topics that suit my personal goals and learning needs.
+**Note:**>  I am focusing on the courses that directly match my current learning goals. I may return to complete the remaining topics in the future.
 
 # Curriculum
 
