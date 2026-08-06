@@ -30,8 +30,7 @@ This course will introduce you to the world of computer science and programming.
 
 | Course | ⏳ | Additional Study | 🎯 |
 | :--- | :---: | :---: | :--- |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅  | ✅ *CS50 - Completed 2024 (HarvardX - Independent Study)* |[CS50](notes/CS50's-CS)
-[SPD](Systematic Program Design)|
+| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅  | ✅ *CS50 - Completed 2024 (HarvardX - Independent Study)* |[CS50](notes/CS50's-CS)|
 
 ## Core CS
 All coursework under Core CS is required, unless otherwise indicated.
@@ -40,7 +39,7 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | ⏳ | 🎯 |
 |---|:---:|---|
-| [Systematic Program Design](coursepages/spd/README.md) |  |  |
+| [Systematic Program Design](coursepages/spd/README.md) |  | [SPD](notes/Systematic%20Program%20Design) |
 | [Class-based Program Design](coursepages/class-based/README.md)  |   |   |
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |   |   |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) |   |   |
