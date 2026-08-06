@@ -36,11 +36,11 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 ### Core programming
 
-| Courses | Status | Key Skills Learned |
+| Courses | Done| Key Skills Learned |
 |---|:---:|---|
 | [Systematic Program Design](coursepages/spd/README.md) | ⏳ 2026 |   |
 | [Class-based Program Design](coursepages/class-based/README.md)  |   |
-| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |S  |
+| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |  |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | |
 
 ### Core math
