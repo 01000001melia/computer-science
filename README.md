@@ -15,7 +15,7 @@
 </p>
 </div>
 
-**Note:**>  I am focusing on the courses that directly match my current learning goals. I may return to complete the remaining topics in the future.
+> **Note:** As a self-taught learner without a Computer Science degree, I am focusing on the courses that directly match my current learning goals. I may return to complete the remaining topics in the future.
 
 # Curriculum
 
