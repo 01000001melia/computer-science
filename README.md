@@ -38,10 +38,10 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | Status | Key Skills Learned |
 |---|:---:|---|
-| [Systematic Program Design](coursepages/spd/README.md) | ⏳ 2026 | How to design programs systematically, function design, data definitions |
-| [Class-based Program Design](coursepages/class-based/README.md) | | Object-oriented design principles, Java fundamentals, class structures |
-| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | | SOLID principles, design patterns, testing, refactoring |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) | | System design, architectural patterns, component diagrams |
+| [Systematic Program Design](coursepages/spd/README.md) | ⏳ 2026 |   |
+| [Class-based Program Design](coursepages/class-based/README.md)  |   |
+| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |S  |
+| [Software Architecture](https://www.coursera.org/learn/software-architecture) | |
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
