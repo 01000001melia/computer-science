@@ -1,1 +1,10 @@
-
+<div align="left">
+  <blockquote style="border-left: 4px solid #0969da; background-color: #f6f8fa; padding: 12px 16px; margin: 16px 0; border-radius: 6px;">
+    <p style="font-size: 16px; font-weight: 600; color: #1f2328; margin-0 0 8px 0;">
+       Note on Systematic Program Design
+    </p>
+    <p style="font-size: 14.5px; line-height: 1.6; color: #24292f; margin: 0;">
+      Having prior experience in algorithmic thinking and problem-solving through procedural programming, this course does not introduce entirely new concepts. Instead, it reapproaches problem-solving from an academic perspective focused on functional programming and data design, giving me a broader view of code organization and design methodologies.
+    </p>
+  </blockquote>
+</div>
