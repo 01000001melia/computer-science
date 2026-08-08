@@ -2,7 +2,7 @@
 <img src="images/ossu-logo.webp" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
 <p>
-  Path to a free self-taught education in Computer Science!
+  Path to a free self-taught education in Computer Science! 2026/2/1📚
 </p>
 <p>
   <a href="https://github.com/sindresorhus/awesome">
