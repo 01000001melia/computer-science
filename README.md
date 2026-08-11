@@ -152,19 +152,39 @@ The assignments and exams for each course are to prepare you to use your knowled
 
 <hr>
 
-<h2>Reflection & Learning Methodology</h2>
+<h2>Personal Reflection & Experience</h2>
 
-<blockquote style="border-left: 4px solid #0969da; padding-left: 15px; margin: 20px 0;">
-  <p>
-    <strong>Personal Experience & Approach:</strong><br>
-    Navigating this curriculum as a self-taught learner has been an empowering journey of building strong foundations in Computer Science. 
-    Rather than treating this as a passive checklist, my goal is to deeply understand core concepts, algorithm design, and system architecture to apply them directly in practical software development.
-  </p>
-  <p>
-    <em>This repository serves as a personal archive of my progress, notes, projects, and insights gained throughout the OSSU curriculum.</em>
-  </p>
-</blockquote>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Details & Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Learning Journey</strong></td>
+      <td>
+        Navigating this curriculum as a self-taught learner has been an empowering journey toward building a solid foundation in Computer Science, bridging the gap between theoretical computer science and practical execution.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Core Philosophy</strong></td>
+      <td>
+        Focusing on deep conceptual understanding, system architecture, and algorithmic design rather than treating the curriculum as a simple checklist.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Repository Goal</strong></td>
+      <td>
+        Serving as a central hub and personal archive for all notes, code implementations, and key learning milestones acquired along the OSSU path.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<div align="center" style="text-align: center; margin-top: 30px;">
+<br>
+
+<div align="center" style="text-align: center;">
   <p> <strong>Continuously Learning & Building</strong> </p>
 </div>
