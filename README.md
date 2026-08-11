@@ -39,7 +39,7 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | ⏳ | 🎯 |
 |---|:---:|---|
-| [Systematic Program Design](coursepages/spd/README.md) | ✅  | [SPD](notes/Systematic%20Program%20Design) |
+| [Systematic Program Design](coursepages/spd/README.md) | ✅  | [SPD](notes/Systematic Program Design.md) |
 | [Class-based Program Design](coursepages/class-based/README.md)  |   |   |
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |   |   |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) |   |   |
