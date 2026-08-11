@@ -157,28 +157,26 @@ The assignments and exams for each course are to prepare you to use your knowled
 <table>
   <thead>
     <tr>
-      <th align="left">Category</th>
-      <th align="left">Details & Experience</th>
+      <th align="left" width="30%">Topic</th>
+      <th align="left" width="70%">My Experience & Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Learning Journey</strong></td>
-      <td>
-        Navigating this curriculum as a self-taught learner has been an empowering journey toward building a solid foundation in Computer Science, bridging the gap between theoretical computer science and practical execution.
-      </td>
+      <td><strong>Overall Journey</strong></td>
+      <td></td>
     </tr>
     <tr>
-      <td><strong>Core Philosophy</strong></td>
-      <td>
-        Focusing on deep conceptual understanding, system architecture, and algorithmic design rather than treating the curriculum as a simple checklist.
-      </td>
+      <td><strong>Key Takeaways</strong></td>
+      <td></td>
     </tr>
     <tr>
-      <td><strong>Repository Goal</strong></td>
-      <td>
-        Serving as a central hub and personal archive for all notes, code implementations, and key learning milestones acquired along the OSSU path.
-      </td>
+      <td><strong>Challenges & Growth</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Next Steps</strong></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -188,3 +186,5 @@ The assignments and exams for each course are to prepare you to use your knowled
 <div align="center" style="text-align: center;">
   <p> <strong>Continuously Learning & Building</strong> </p>
 </div>
+
+
