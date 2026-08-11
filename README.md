@@ -143,9 +143,10 @@ The assignments and exams for each course are to prepare you to use your knowled
 | [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
 
 
-#Team
+# Team
 
-Eric Douglas: founder of OSSU
-Josh Hanson: lead technical maintainer
-Waciuma Wanjohi: lead academic maintainer
-Contributors
+* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
+* **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
+* **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
+* **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+
