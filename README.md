@@ -142,7 +142,9 @@ The assignments and exams for each course are to prepare you to use your knowled
 | [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | |
 | [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
 
-Team
+
+#Team
+
 Eric Douglas: founder of OSSU
 Josh Hanson: lead technical maintainer
 Waciuma Wanjohi: lead academic maintainer
