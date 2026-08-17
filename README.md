@@ -1,128 +1,45 @@
 <div align="center" style="text-align: center">
-<img src="images/ossu-logo.webp" alt="Open Source Society logo"/>
-<h3>Open Source Society University</h3>
-<p>
-  Path to a free self-taught education in Computer Science! 2026📚
-</p>
-<p>
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
-  ></a>
-  <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
-  ></a>
-</p>
+  <img src="images/ossu-logo.webp" alt="Open Source Society logo" width="120"/>
+  <h3>Open Source Society University</h3>
+  <p>Path to a free self-taught education in Computer Science! 2026 📚</p>
+  <p>
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+    </a>
+    <a href="https://github.com/ossu/computer-science">
+      <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg" />
+    </a>
+  </p>
 </div>
 
-**Note:**> As a self-taught learner without a CS degree,  I am focusing on the courses that directly match my current learning goals. I may return to complete the remaining topics in the future.
+> **Note:** As a self-taught developer without a CS degree, I follow a tailored learning methodology that directly pairs core CS academic courses (OSSU) with hands-on software engineering (.NET / C# Curriculum). Non-essential modules are deferred to maintain sharp focus on backend engineering.
 
-# Curriculum
+---
 
-- [Intro CS](#intro-cs)
-- [Core CS](#core-cs)
-- [Advanced CS](#advanced-cs)
-- [Final project](#final-project)
+# Course Syncing Map & Curriculum
 
+Below is the structured execution plan showing how each core CS module from OSSU is paired with the corresponding practical stage in my engineering roadmap:
 
-## Intro CS
+| Step | Core Engineering Stage | OSSU Parallel Course | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | **14 - C# Level 1** | **The Missing Semester of Your CS Education** | ⏳ |
+| **02** | **15 - Database Level 1 - SQL** | **Databases: Relational Databases and SQL** | ⏳ |
+| **03** | **16 - OOP As It Should Be In C#** | **Class-based Program Design + OOD** | ⏳ |
+| **04** | **17 - Database SQL Projects** | **Databases: Semistructured Data** | ⏳ |
+| **05** | **18 - ADO.NET & Connectivity** | **Software Engineering: Introduction** | ⏳ |
+| **06** | **19 - Full Real Project (DVLD)** | **Software Debugging** | ⏳ |
+| **07** | **20 - C# Level 2 & SOLID Principles** | **Principles of Secure Coding** | ⏳ |
+| **08** | **21 - Database Level 2 (T-SQL)** | **Data Privacy Fundamentals** | ⏳ |
+| **09** | **22 - Data Structures Level 2** | **Algorithms: Design and Analysis (Part 1)** | ⏳ |
+| **10** | **23 - Algorithms Level 6** | **Algorithms: Design and Analysis (Part 2)** | ⏳ |
+| **11** | **24 - Windows Services** | **Software Testing** | ⏳ |
+| **12** | **Git & GitHub Workflows** | **Essence of Linear Algebra** | ⏳ |
+| **13** | **Introduction to RESTful API** | **Computer Networking: Top-Down Approach** | ⏳ |
+| **14** | **Secure Your APIs (JWT & Roles)** | **Web Security Fundamentals** | ⏳ |
+| **15** | **Entity Framework Core (EF Core)** | **Secure Software Development** | ⏳ |
+| **16** | **Cloud & Production Architecture** | **Cloud Computing Specialization** | ⏳ |
 
-This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
-
-| Course | ⏳ | Additional Study | 🎯 |
-| :--- | :---: | :---: | :--- |
-| [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | ✅  | ✅ *CS50 - Completed 2024 (HarvardX - Independent Study)* |[CS50](notes/CS50's-CS.md)|
-
-## Core CS
-All coursework under Core CS is required, unless otherwise indicated.
-
-### Core programming
-
-| Courses | ⏳ | 🎯 |
-|---|:---:|---|
-| [Class-based Program Design](coursepages/class-based/README.md)  |   |   |
-| [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |   |   |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) |   |   |
-
-
-### CS Tools
-Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
-
-| Courses | ⏳ |
-|---|---|
-| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | |
-
-### Core systems
-
-| Courses | ⏳ |
-|---|---|
-| [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | |
-
-### Core theory
-
-| Courses | ⏳ |
-|---|---|
-| [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) | |
-| [Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | |
-
-### Core security
-
-| Courses | ⏳ |
-|---|---|
-| [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | |
-| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | |
-| [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | |
-
-### Core applications
-
-| Courses | ⏳ |
-|---|---|
-| [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | |
-| [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | |
-| [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | |
-
-### Core ethics
-
-| Courses | ⏳ |
-|---|---|
-| [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | |
-
-## Advanced CS
-After completing every required course in Core CS, students should choose a subset of courses from Advanced CS based on interest. Not every course from a subcategory needs to be taken. But students should take every course that is relevant to the field they intend to go into.
-
-### Advanced programming
-
-| Courses | ⏳ |
-|---|---|
-| [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | |
-| [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | |
-
-### Advanced Information Security
-
-| Courses | ⏳ |
-|---|---|
-| [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | |
-| [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | |
-| [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | |
-| [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | |
-
-### Advanced math
-
-| Courses | ⏳ |
-|---|---|
-| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
-
-## Final project
-
-Part of learning is doing.
-The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
-
-### Final project
-
-| Courses | ⏳ |
-|---|---|
-| [Fullstack Open](https://fullstackopen.com/en/) | |
-| [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
-
+---
 
 # Team
 
@@ -131,7 +48,7 @@ The assignments and exams for each course are to prepare you to use your knowled
 * **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
 
-<hr>
+---
 
 <h2>Personal Reflection & Experience</h2>
 
@@ -145,19 +62,19 @@ The assignments and exams for each course are to prepare you to use your knowled
   <tbody>
     <tr>
       <td><strong>Overall Journey</strong></td>
-      <td></td>
+      <td>Pairing theoretical CS principles directly with hands-on .NET software engineering.</td>
     </tr>
     <tr>
       <td><strong>Key Takeaways</strong></td>
-      <td></td>
+      <td>Focusing on clean architecture, optimized database design, and production-ready APIs.</td>
     </tr>
     <tr>
       <td><strong>Challenges & Growth</strong></td>
-      <td></td>
+      <td>Balancing academic concepts with real-world application implementation.</td>
     </tr>
     <tr>
       <td><strong>Next Steps</strong></td>
-      <td></td>
+      <td>Mastering C# OOP foundations, SQL connectivity, and building scalable REST APIs.</td>
     </tr>
   </tbody>
 </table>
@@ -165,8 +82,5 @@ The assignments and exams for each course are to prepare you to use your knowled
 <br>
 
 <div align="center" style="text-align: center;">
-  <p> <strong>Continuously Learning & Building</strong> </p>
+  <p><strong>Continuously Learning & Building 🚀</strong></p>
 </div>
-
-
-
