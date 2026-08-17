@@ -39,17 +39,10 @@ All coursework under Core CS is required, unless otherwise indicated.
 
 | Courses | ⏳ | 🎯 |
 |---|:---:|---|
-| [Systematic Program Design](coursepages/spd/README.md) | ✅  | [SPD](notes/Systematic%20Program%20Design.md) |
 | [Class-based Program Design](coursepages/class-based/README.md)  |   |   |
 | [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/)  |   |   |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) |   |   |
 
-### Core math
-Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
-
-| Courses | ⏳ |
-|---|---|
-| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | |
 
 ### CS Tools
 Understanding theory is important, but you will also be expected to create programs. There are a number of tools that are widely used to make that process easier. Learn them now to ease your future work writing programs.
@@ -62,9 +55,6 @@ Understanding theory is important, but you will also be expected to create progr
 
 | Courses | ⏳ |
 |---|---|
-| [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | |
-| [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | |
-| [Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | |
 | [Computer Networking: a Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | |
 
 ### Core theory
@@ -81,14 +71,11 @@ Understanding theory is important, but you will also be expected to create progr
 | [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | |
 | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | |
 | [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | |
-| [Identifying Security Vulnerabilities in C/C++ Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | |
-| [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | |
 
 ### Core applications
 
 | Courses | ⏳ |
 |---|---|
-| [Databases: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory) | |
 | [Databases: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | |
 | [Databases: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data) | |
 | [Software Engineering: Introduction](https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction) | |
@@ -97,8 +84,6 @@ Understanding theory is important, but you will also be expected to create progr
 
 | Courses | ⏳ |
 |---|---|
-| [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering) | |
-| [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | |
 | [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | |
 
 ## Advanced CS
@@ -108,8 +93,6 @@ After completing every required course in Core CS, students should choose a subs
 
 | Courses | ⏳ |
 |---|---|
-| [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) | |
-| [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | |
 | [Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A) | |
 | [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | |
 
@@ -118,7 +101,6 @@ After completing every required course in Core CS, students should choose a subs
 | Courses | ⏳ |
 |---|---|
 | [Web Security Fundamentals](https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals) | |
-| [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | |
 | [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse) | |
 | [Secure Software Development: Implementation](https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation) | |
 | [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics) | |
@@ -139,7 +121,6 @@ The assignments and exams for each course are to prepare you to use your knowled
 | Courses | ⏳ |
 |---|---|
 | [Fullstack Open](https://fullstackopen.com/en/) | |
-| [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | |
 | [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | |
 
 
